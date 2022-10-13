@@ -14,7 +14,7 @@
 		"grunt-qunit-istanbul": "~0.6.0",
 		"grunt-text-replace": "~0.4.0",
 		"grunt-zip": "~0.17.1",
-		"matchdep": "~0.3.0"
+		"matchdep": "~2.0.0"
 	},
 	"engines": {
 		"node": ">=0.8.0"
