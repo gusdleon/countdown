@@ -13,7 +13,7 @@
 		"grunt-jsdoc": "~2.4.1",
 		"grunt-qunit-istanbul": "~1.1.0",
 		"grunt-text-replace": "~0.4.0",
-		"grunt-zip": "~0.20.0",
+		"grunt-zip": "~1.0.0",
 		"matchdep": "~2.0.0"
 	},
 	"engines": {
